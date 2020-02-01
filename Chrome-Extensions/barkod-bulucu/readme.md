@@ -1,1 +1,1 @@
-Json verisi içinden istenilen bilgiyi almamıza yarar
+JSON verisi içinden istenilen bilgiyi almamıza yarar
