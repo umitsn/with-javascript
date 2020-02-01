@@ -1,1 +1,1 @@
-Örnek ekran görüntüleri açıldığında görüntünün üzerine sağ tıklayıp resmi yeni pencerede aç deyip tam halini görebilirsiniz.
+Json verisi içinden istenilen bilgiyi almamıza yarar
