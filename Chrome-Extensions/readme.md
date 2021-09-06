@@ -1,1 +1,1 @@
-Javascrip ile yazdığım Chrome eklentileri.
+Javascript ile yazdığım Chrome eklentileri.
